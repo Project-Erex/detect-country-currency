@@ -1,0 +1,18 @@
+{
+  "name": "@erexstudio/detect-country-currency",
+  "version": "1.0.0",
+  "description": "get your country currency from browser API",
+  "main": "index.js",
+  "keywords": [
+    "erexstudio",
+    "currency",
+    "country-currency",
+    "country-code",
+    "currency-converter"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "erexstudio",
+  "license": "ISC"
+}
